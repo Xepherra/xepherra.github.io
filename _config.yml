@@ -1,0 +1,33 @@
+title: "Firas Hermez — Personal Site"
+description: "Short sci-fi stories, blog posts, musings and info about myself and mywork"
+url: "https://<your-username>.github.io"   
+baseurl: ""                                
+
+# Use Minimal Mistakes via remote_theme on GitHub Pages
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+# Collections (for non-dated stories)
+collections:
+  stories:
+    output: true
+    permalink: /stories/:title/
+
+# Defaults for content types
+defaults:
+  - scope: { path: "", type: "posts" }
+    values: { layout: single, author_profile: true }
+  - scope: { path: "", type: "stories" }
+    values: { layout: single, author_profile: true }
+
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# Social (optional; shows in sidebar/profile)
+author:
+  name: "Firas"
+  bio: "Sci-fi short stories and thought experiments."
