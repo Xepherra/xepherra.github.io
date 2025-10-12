@@ -1,9 +1,7 @@
 ---
 title: "Example story placeholder"
 summary: "A short placeholder story for testing the site’s layout and navigation."
-date: 2025-10-13
 author_profile: false
-permalink: /stories/example-story/
 ---
 
 *This is a placeholder story to confirm that the collection pages render correctly.*
