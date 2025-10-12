@@ -14,7 +14,7 @@ plugins:
 collections:
   stories:
     output: true
-    permalink: /stories/:title/
+    permalink: /stories/:name/
 
 # Defaults
 defaults:
