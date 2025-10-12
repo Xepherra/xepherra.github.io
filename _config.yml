@@ -4,6 +4,7 @@ url: "https://xepherra.github.io"
 baseurl: ""
 
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
 
 plugins:
   - jekyll-feed
