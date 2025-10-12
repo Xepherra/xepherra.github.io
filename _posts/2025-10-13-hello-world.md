@@ -4,6 +4,8 @@ title: "First Contact — A Placeholder Post"
 excerpt: "Testing the blog section of the site."
 author_profile: false
 tags: [meta, test]
+date: 2025-10-13
+layout: post
 ---
 
 This is a placeholder blog post to confirm that your **blog listing** and **post layout** work properly.
