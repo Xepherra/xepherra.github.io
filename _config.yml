@@ -3,6 +3,9 @@ description: "Musings, stories, research and everything in between."
 url: "https://xepherra.github.io"
 baseurl: ""
 
+exclude:
+  - .devcontainer
+
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
 

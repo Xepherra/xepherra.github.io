@@ -1,0 +1,17 @@
+{
+  "name": "Jekyll (Ruby + Node)",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+  "postCreateCommand": "gem install jekyll bundler && npm install || true",
+  "forwardPorts": [4000],
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": [
+    "rebornix.Ruby",
+    "castwide.solargraph",
+    "eg2.vscode-npm-script"
+  ]
+}
