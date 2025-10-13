@@ -1,19 +1,16 @@
 ---
 layout: single
-title: "First Contact — A Placeholder Post"
-excerpt: "Testing the blog section of the site."
+title: "About time! 🚀"
+excerpt: "First,first!"
 author_profile: false
 tags: [meta, test]
 date: 2025-09-13
 ---
 
-This is a placeholder blog post to confirm that your **blog listing** and **post layout** work properly.
+First of all....First post! 
 
-You can write posts in plain Markdown — use **headings**, *italics*, lists, and even code blocks:
+It has taken me eons to get over my procrastination (when it comes to my personal projects 😉⏳) but hey, better late than never, even if late means years late!
 
-```python
-def greet():
-    print("Hello from Jekyll!")
-```
+But, here we are and now that this small corner of the interwebs is up and running I will try to publish my thoughts, stories and ideas on here whenever I get the chance!
 
-When you're ready, replace this entry with a real post to share news, behind-the-scenes thoughts, or long-form musings about your stories.
+For now, have a quick look around and check out the stories section if you are into shortform sci-fi :)
