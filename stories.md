@@ -13,5 +13,5 @@ Most stories focus on what life might look like in a post AGI / post abundance s
 
 _All stories are licensed under: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)_
 
-## A note on the use of AI
+#### A note on the use of AI
 Most of these stories have been edited and fleshed out with the help of ChatGPT and Gemini. However, the themes, characters, story flow and interactions are all my own.
