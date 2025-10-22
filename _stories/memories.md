@@ -1,3 +1,9 @@
+---
+title: "Memories"
+summary: "A story about the world's past and the future that was carved after"
+author_profile: false
+---
+
 The aroma of simmering stew filled the apartment, warm and earthy, the kind of scent that lingered in the walls long after the meal was gone. Laila leaned over the pot, tasting a spoonful with a practiced frown. Too mild. Her grandmother’s cooking had always carried a certain sharpness, a balance that lived in memory as much as in flavor. She reached for the salt jar, sprinkling in just a pinch more.
 
 Behind her, the kitchen bench itself seemed to be alive. The polished ceramic top rippled with a faint, internal glow, and where the counter met the wall, a discreet compartment softened its edges. Within it, the retracted form of the kitchen's robotic chef lay dormant, its polished steel arms folded tightly against the compartment’s ceiling. It could have unfolded and prepared this entire dinner in record time—perfectly measured, flawlessly seasoned, every plate arriving on cue. But tonight wasn’t about efficiency. Tonight, her grandfather was visiting. And for him, She wanted the food to reflect the personal effort and thought she poured into its creation.
