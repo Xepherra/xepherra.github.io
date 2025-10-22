@@ -1,9 +1,3 @@
----
-title: "Re-roll"
-summary: "A story about an elderly man who has been given a second change to reclaim his youth"
-author_profile: false
----
-
 "Bevan, wake up, it's past 8 a.m." The soft, synthesized voice of his assistant cut through the distant rumble of a thunderstorm and the gentle patter of rain, sounds Bevan often looped to lull himself to sleep. It took him a few moments to fully surface from the depths of his slumber, the white noise a familiar anchor in his subconscious.
 
 "Would you like your morning coffee in bed?" the assistant queried, its tone perfectly modulated. "No, thank you," Bevan replied, a faint weariness in his voice. "I'll make my own today." He took a deep, deliberate breath, the dull ache in his joints a familiar prelude to the day's significance. He sat on the edge of his bed for a few minutes, lost in thought, before finally pushing himself up.
@@ -22,9 +16,9 @@ Standing atop his apartment balcony Bevan took a deep breath, the air was crisp 
 
 The world has changed significantly in a relatively short time, spurred by incredible advances in technology during the mid 2020s. Human society underwent rapid technological change, early on most of the changes happened in the digital world but in the late 2020s and early 2030s these changes spilled into the physical world. The rest as they say was history.
 
-“Will that be all?” , Soren’s voice spoke through the android breaking Bevan's chain of thought, Bevan looked back at the android and said “Yes, that's all for now, thank you Soren”, “Very well then, your ride arrive in approximately 45 minutes, I will go and prepare for the trip”. With that, The Android walked back inside and started packing for Bevan's trip.
+“Will that be all?” , Soren’s voice spoke through the android breaking Bevan's chain of thought, Bevan looked back at the android and said “Yes, that's all for now, thank you Soren”, “Very well then, your ride will arrive in approximately 45 minutes, I will go and prepare for the trip”. With that, The Android walked back inside and started packing for Bevan's trip.
 
-Bevan was finally due for his rejuvenation therapy. This process involves injections of two engineered viruses that reprogram the human body, purging senescent cells and restoring a person's biological age to their prime.Biological rejuvenation therapy, available to individuals aged 60 and above, was something Bevan had been eligible for for years. However, it was only recently that he decided to undergo the treatment. For nearly two decades after his wife's passing, he had lost all interest in life, preferring to be left alone.
+Bevan was finally due for his rejuvenation therapy. This process involves injections of two engineered viruses that reprogram the human body, purging senescent cells and restoring a person's biological age to their prime. Biological rejuvenation therapy, available to individuals aged 60 and above, was something Bevan had been eligible for for years. However, it was only recently that he decided to undergo the treatment. For nearly two decades after his wife's passing, he had lost all interest in life, preferring to be left alone.
 
 However, Bevan recently had a change of heart. After years of being a shut-in, his daughter's persistent efforts to reconnect finally broke through his apathy. It was a heated discussion, but she convinced him that refusing age rejuvenation was a disservice to his grandchildren and their future generations. Bevan came to a profound realization: his existence didn't just affect him; it had a ripple effect on those around him. He also understood, with a pang of nostalgia and longing, that his late wife would have wanted him to embrace life, just as they had always done together through travel, new connections, and diverse experiences.
 

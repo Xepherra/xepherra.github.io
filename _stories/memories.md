@@ -1,12 +1,6 @@
----
-title: "Memories"
-summary: "A tale which takes place in a futuristic Tokyo where a multi-generational family get together for dinner"
-author_profile: false
----
-
 The aroma of simmering stew filled the apartment, warm and earthy, the kind of scent that lingered in the walls long after the meal was gone. Laila leaned over the pot, tasting a spoonful with a practiced frown. Too mild. Her grandmother’s cooking had always carried a certain sharpness, a balance that lived in memory as much as in flavor. She reached for the salt jar, sprinkling in just a pinch more.
 
-Behind her, the kitchen bench itself seemed to be alive. The polished ceramic top rippled with a faint, internal glow, and where the counter met the wall, a discreet compartment softened its edges. Within it, the retracted form of the kitchen's robotic chef lay dormant, its polished steel arms folded tightly against the compartment’s ceiling. It could have unfolded and prepared this entire dinner in record time—perfectly measured, flawlessly seasoned, every plate arriving on cue. But tonight wasn’t about efficiency. Tonight, her grandfather was visiting. And for him, she wanted the food to carry her hands in it.
+Behind her, the kitchen bench itself seemed to be alive. The polished ceramic top rippled with a faint, internal glow, and where the counter met the wall, a discreet compartment softened its edges. Within it, the retracted form of the kitchen's robotic chef lay dormant, its polished steel arms folded tightly against the compartment’s ceiling. It could have unfolded and prepared this entire dinner in record time—perfectly measured, flawlessly seasoned, every plate arriving on cue. But tonight wasn’t about efficiency. Tonight, her grandfather was visiting. And for him, She wanted the food to reflect the personal effort and thought she poured into its creation.
 
 The door slid open with a cheerful chime, and her daughter Mira bounded in, cheeks flushed from the autumn chill. She dropped her bag in the entryway and stopped mid-stride, wide-eyed at the sight of her mother still bent over the stove.
 
@@ -66,7 +60,7 @@ The lattice shivered, a hairline split opening across its structure. Within mome
 
 On one of the side panels, notes scrolled automatically, equations interlaced with visual records of the test. The goal wasn’t just conductivity — it was compatibility, a material that could heal itself within the human body without rejection, a seamless bridge between biology and machine.
 
-The AI voice returned. *“You have been in continuous session for four hours. Would you like me to dim environmental stimuli and extend concentration mode?”*
+The AI voice returned. *“You have been in a continuous session for four hours. Would you like me to dim environmental stimuli and extend concentration mode?”*
 
 Kenji rubbed his eyes, only then noticing the ache in his shoulders. Somewhere beyond the walls, faint traces of laughter and clinking utensils reached his ears. He blinked, realizing with a pang that the evening had slipped away without him noticing.
 
