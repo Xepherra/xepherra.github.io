@@ -1,3 +1,9 @@
+---
+title: "Re-roll"
+summary: "When a man is given a second chance to relive his youth"
+author_profile: false
+---
+
 "Bevan, wake up, it's past 8 a.m." The soft, synthesized voice of his assistant cut through the distant rumble of a thunderstorm and the gentle patter of rain, sounds Bevan often looped to lull himself to sleep. It took him a few moments to fully surface from the depths of his slumber, the white noise a familiar anchor in his subconscious.
 
 "Would you like your morning coffee in bed?" the assistant queried, its tone perfectly modulated. "No, thank you," Bevan replied, a faint weariness in his voice. "I'll make my own today." He took a deep, deliberate breath, the dull ache in his joints a familiar prelude to the day's significance. He sat on the edge of his bed for a few minutes, lost in thought, before finally pushing himself up.
