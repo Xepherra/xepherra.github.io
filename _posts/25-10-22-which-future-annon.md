@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Which future, annon?"
-excerpt: "You wake up, your breathing is quick and shallow, sweat glistening all over your skin..."
+excerpt: "You wake up, your breathing is quick and shallow, sweat covering your skin..."
 author_profile: false
 tags: [future, inequality, sci-fi, society]
 date: 2025-10-22
