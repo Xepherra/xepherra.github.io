@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Carreer"
-permalink: /carreer/
+title: "Career"
+permalink: /career/
 ---
 
 # Firas Hermez  
